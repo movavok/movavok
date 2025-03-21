@@ -1,30 +1,19 @@
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=1000&pause=1000&color=24801D&multiline=true&repeat=false&width=435&height=100&lines=%2F%2FHello+world!;%2F%2FI+am+a+first+year+computer+science+student;%2F%2Fwho+is+starting+out+in+IT;%2F%2Fand+looking+for+my+place+in+the+field.)](https://git.io/typing-svg)
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=1000&pause=1000&color=24801D&multiline=true&repeat=false&width=435&height=100&lines=%2F%2FHello+world!;%2F%2FI+am+a+first+year+computer+science+student;%2F%2Fwho+is+starting+out+in+IT;%2F%2Fand+looking+for+my+place+in+the+field.)](https://git.io/typing-svg)
 
-### 📞 Contacts
+
+## 📞 Contacts
 
 <details>
     <summary>Click to show contacts</summary>
-    <div style="margin-bottom: 19px; margin-top: 20px;">
-    <div style="display: inline-block; margin-right: 50px;">
-        <a href="https://t.me/movavok">
-            <img src="https://img.icons8.com/color/60/telegram-app.png" alt="Telegram">
-        </a>
-    </div>
-    <div style="display: inline-block; margin-right: 50px;">
-        <a href="mailto:pkurishchenkoukr.net05@gmail.com">
-            <img src="https://img.icons8.com/color/60/gmail.png" alt="Email">
-        </a>
-    </div>
-    <div style="display: inline-block;">
-        <a href="https://discordapp.com/users/672868128488816650">
-            <img src="https://img.icons8.com/color/60/discord.png" alt="Discord">
-        </a>
-    </div>
+
+|[![Telegram](https://img.icons8.com/color/60/telegram-app.png)](https://t.me/movavok)|[![Email](https://img.icons8.com/color/60/gmail.png)](mailto:pkurishchenkoukr.net05@gmail.com)|[![Discord](https://img.icons8.com/color/60/discord.png)](https://discordapp.com/users/672868128488816650)|
+|---|---|---|
+
 </details>
 
----
 
-### 🌎 Spoken Languages
+
+## 🌎 Spoken Languages
 
 <details>
     <summary>Click to show languages</summary>
@@ -40,9 +29,8 @@
 </h></p>
 </details>
 
----
 
-### 📊 My Stats
+## 📊 My Stats
 
 <details>
     <summary>Click to show my stats</summary>
@@ -52,8 +40,6 @@
         </p>
     </div>
 </details>
-
----
 
 #### In progress...
 
